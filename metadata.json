@@ -1,0 +1,6 @@
+{
+  "name": "LoRa Communicator",
+  "description": "Off-grid communicator for ESP32 + SX1278 LoRa node with Wi-Fi/Bluetooth, text messaging, GPS sharing, voice notes, and mesh packet protocol",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

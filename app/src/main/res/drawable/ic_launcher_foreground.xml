@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Antenna Mast -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M52,38 L56,38 L56,76 L52,76 Z" />
+    <path
+        android:fillColor="#FB923C"
+        android:pathData="M54,30 A6,6 0 1,0 54,42 A6,6 0 1,0 54,30" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,33 A3,3 0 1,0 54,39 A3,3 0 1,0 54,33" />
+    
+    <!-- Base tripod stand -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M54,72 L42,84 L46,86 L54,77 L62,86 L66,84 Z" />
+
+    <!-- Radio Waves Left & Right (Inner Ring) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M43,26 A14,14 0 0,0 43,46" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M65,26 A14,14 0 0,1 65,46" />
+
+    <!-- Radio Waves Left & Right (Outer Ring) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#0EA5E9"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M33,18 A26,26 0 0,0 33,54" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#0EA5E9"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M75,18 A26,26 0 0,1 75,54" />
+
+    <!-- LoRa node data badge / pulse dot -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M76,68 A4,4 0 1,0 76,76 A4,4 0 1,0 76,68" />
+</vector>
